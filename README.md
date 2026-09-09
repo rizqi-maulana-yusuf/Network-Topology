@@ -1,4 +1,4 @@
-# 🌐 Level 1: Enterprise Multi-Site Network with VLANs, Voice & Wireless Integration
+Enterprise Multi-Site Network with VLANs, Voice & Wireless Integration
 
 ## 📌 Project Overview
 This project demonstrates a fully routed, multi-site enterprise network infrastructure engineered in Cisco Packet Tracer. The architecture implements full VLAN segmentation across all departments, Inter-VLAN Routing via router sub-interfaces, and Inter-Router Routing between site gateways. 
